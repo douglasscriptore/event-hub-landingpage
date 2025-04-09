@@ -109,7 +109,7 @@ const Validator: React.FC = () => {
                 </h4>
 
                 <p className="mt-2 text-tiny text-white/60 uppercase font-bold">
-                  Autor:
+                  Nome:
                 </p>
                 <h4 className="text-white font-medium text-large">
                   {certificate.author.name}
